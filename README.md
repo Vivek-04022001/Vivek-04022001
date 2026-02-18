@@ -10,11 +10,7 @@
 
 ---
 
-### 📊 GitHub Stats
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Vivek-04022001&show_icons=true&theme=dracula&hide_border=true" height="160" alt="GitHub stats" />
-  <img src="https://streak-stats.demolab.com?user=Vivek-04022001&theme=dracula&hide_border=true" height="160" alt="streak stats" />
-</div>
+
 
 ---
 
@@ -45,6 +41,3 @@
 
 ---
 
-<div align="center">
-  <img src="https://raw.githubusercontent.com/Vivek-04022001/Vivek-04022001/output/snake.svg" alt="Snake animation" />
-</div>
