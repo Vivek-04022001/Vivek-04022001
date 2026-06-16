@@ -113,10 +113,6 @@ I care about clean architecture, smooth UX, and shipping things that actually wo
 | Project | Description | Stack |
 |--------|-------------|-------|
 | [**Expense Tracker**](https://github.com/Vivek-04022001/Expense-Tracker) | Auto-tracks daily expenses by reading SMS messages in real time — no manual entry. | Flutter · Node.js |
-| [**Cosmara**](https://github.com/Vivek-04022001/Cosmara) | A cinematic space-exploration dashboard. | Flutter |
-| [**Sportz Live Stream**](https://github.com/Vivek-04022001/sportz-live-stream) | A live sports-news streaming platform built with Express & WebSockets. | Express · WebSockets |
-| [**Shopify Tools**](https://github.com/Vivek-04022001/shopify-tools) | Profit / loss / revenue calculators for dropshipping products. | React |
-| [**Video Conference App**](https://github.com/Vivek-04022001/video-conference-app) | A side project exploring real-time video conferencing. | TypeScript |
 | [**Portfolio**](https://github.com/Vivek-04022001/Portfolio) | My personal portfolio website. | TypeScript |
 
 ---
