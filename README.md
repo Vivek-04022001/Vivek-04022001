@@ -72,7 +72,7 @@ I care about clean architecture, smooth UX, and shipping things that actually wo
         <img src="https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white" />
         <img src="https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=dart&logoColor=white" />
       </p>
-      <a href="https://github.com/Vivek-04022001/meditation_app">📂 Source</a>
+      <a href="https://drive.google.com/drive/folders/1Q4bFDwB9dlRihJ9-3zG439caWXPFba3w?usp=sharing">🔗 GoogleDrive </a>
     </td>
     <td width="50%" valign="top">
       <h3>🎨 Carousel Editor</h3>
@@ -81,7 +81,7 @@ I care about clean architecture, smooth UX, and shipping things that actually wo
         <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
         <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
       </p>
-      <a href="https://carousel-editor-three.vercel.app">🔗 Live Demo</a> · <a href="https://github.com/Vivek-04022001/carousel-editor">📂 Source</a>
+      <a href="https://carousel-editor-three.vercel.app">🔗 Live Demo</a>
     </td>
   </tr>
   <tr>
