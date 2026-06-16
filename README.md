@@ -59,12 +59,65 @@ I care about clean architecture, smooth UX, and shipping things that actually wo
 
 ---
 
-### 🚀 Featured Projects
+### 🌟 Featured Projects
+
+> A few projects I'm especially proud of — each one shipped and runnable.
+
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>🧘 Meditation App</h3>
+      <p>A calming, India-focused meditation experience with curated sessions and a polished, distraction-free UI. Built with Flutter for smooth, native-feeling animations.</p>
+      <p>
+        <img src="https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white" />
+        <img src="https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=dart&logoColor=white" />
+      </p>
+      <a href="https://github.com/Vivek-04022001/meditation_app">📂 Source</a>
+    </td>
+    <td width="50%" valign="top">
+      <h3>🎨 Carousel Editor</h3>
+      <p>An Apple-style 1080×1350 Instagram carousel editor with a companion Python generator. Design clean, on-brand multi-slide posts right in the browser.</p>
+      <p>
+        <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
+        <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
+      </p>
+      <a href="https://carousel-editor-three.vercel.app">🔗 Live Demo</a> · <a href="https://github.com/Vivek-04022001/carousel-editor">📂 Source</a>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>🧠 IQ Test</h3>
+      <p>An interactive web app that lets users take an IQ test and instantly see their results. Clean UX, real-time scoring, and a responsive design.</p>
+      <p>
+        <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
+        <img src="https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white" />
+      </p>
+      <a href="https://iq-test-khaki.vercel.app">🔗 Live Demo</a> · <a href="https://github.com/Vivek-04022001/iq_test">📂 Source</a>
+    </td>
+    <td width="50%" valign="top">
+      <h3>📱 Layrd</h3>
+      <p>Smart wallpaper app that overlays productivity widgets (todos, year dots, calendar, quotes) onto your homescreen. Clean Architecture + WorkManager midnight refresh.</p>
+      <p>
+        <img src="https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white" />
+        <img src="https://img.shields.io/badge/Riverpod-02569B?style=flat-square&logo=flutter&logoColor=white" />
+      </p>
+      <a href="https://github.com/Vivek-04022001/layrd">📂 Source</a>
+    </td>
+  </tr>
+</table>
+
+---
+
+### 🧩 More Projects
 
 | Project | Description | Stack |
 |--------|-------------|-------|
-| [**Layrd**](https://github.com/Vivek-04022001/layrd) | Smart wallpaper app that overlays productivity widgets (todos, year dots, calendar, quotes) onto your homescreen. Clean Architecture + WorkManager midnight refresh. | Flutter · Riverpod · Hive · WorkManager |
-| [**Expense Tracker**](https://github.com/Vivek-04022001/Expense-Tracker) | Full-stack app that auto-tracks daily expenses by reading SMS messages in real time — no manual entry needed. | Flutter · Node.js · REST API |
+| [**Expense Tracker**](https://github.com/Vivek-04022001/Expense-Tracker) | Auto-tracks daily expenses by reading SMS messages in real time — no manual entry. | Flutter · Node.js |
+| [**Cosmara**](https://github.com/Vivek-04022001/Cosmara) | A cinematic space-exploration dashboard. | Flutter |
+| [**Sportz Live Stream**](https://github.com/Vivek-04022001/sportz-live-stream) | A live sports-news streaming platform built with Express & WebSockets. | Express · WebSockets |
+| [**Shopify Tools**](https://github.com/Vivek-04022001/shopify-tools) | Profit / loss / revenue calculators for dropshipping products. | React |
+| [**Video Conference App**](https://github.com/Vivek-04022001/video-conference-app) | A side project exploring real-time video conferencing. | TypeScript |
+| [**Portfolio**](https://github.com/Vivek-04022001/Portfolio) | My personal portfolio website. | TypeScript |
 
 ---
 
