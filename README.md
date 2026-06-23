@@ -113,7 +113,7 @@ I care about clean architecture, smooth UX, and shipping things that actually wo
 | Project | Description | Stack |
 |--------|-------------|-------|
 | [**Expense Tracker**](https://github.com/Vivek-04022001/Expense-Tracker) | Auto-tracks daily expenses by reading SMS messages in real time — no manual entry. | Flutter · Node.js |
-| [**Portfolio**](https://github.com/Vivek-04022001/Portfolio) | My personal portfolio website. | TypeScript |
+
 
 ---
 
